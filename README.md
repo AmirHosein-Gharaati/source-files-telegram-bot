@@ -1,2 +1,27 @@
 # source-files-telegram-bot
 A telegram bot for interacting with database files
+
+
+## How it works
+
+Used pyrogram framework which uses python language and sqlite3 database for saving users, statuses and files.
+
+Pyrogram uses API_ID and API_HASH and BOT_TOKEN for running the script. You can install this bot on your own machine by reading [Pyrogram](https://docs.pyrogram.org/) documentation.
+
+## install
+
+    pip3 install pyrogram tgcrypto
+    
+and follow pyrogram documentation for installing API_ID, API_HASH and BOT_TOKEN.
+
+## Deploy
+
+You can deploy this or any other bots to [Heroku](heroku.com) for FREE or you can deploy it on your own host or server (recommended).
+
+**Note**: If you wanna deploy to heroku make sure you backup your files before stopping program from heroku hosts.
+
+## About
+
+This bot was an idea that could ease finding and searching files of different sources from different channels.
+
+Any issues, enhancements or pull requests are respected :). Feel free to ask [ME](https://t.me/AG_1380) any questions and develope features.
