@@ -27,4 +27,4 @@ This bot was an idea that could ease finding and searching files from different 
 
 Any issues, enhancements or pull requests are respected :). Feel free to ask [ME](https://t.me/AG_1380) any questions and develope features.
 
-One example bot is now running on [this](https://t.me/source_books_bot) link.
+Example bot is now running on [this](https://t.me/source_books_bot) link.
