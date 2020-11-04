@@ -5,15 +5,15 @@ A telegram bot for searching files using sqlite3 databasse
 
 ## How it works
 
-Used pyrogram framework which uses python language and sqlite3 database for saving users, statuses and files.
+Used pyrogram framework(python language) and sqlite3 database for saving users, statuses and files.
 
-Pyrogram uses API_ID and API_HASH and BOT_TOKEN for running the script. You can install this bot on your own machine by reading [Pyrogram](https://docs.pyrogram.org/) documentation.
-
+The framework uses telegram api which is so fast for receiving and sending response.
 ## install
 
     pip3 install pyrogram tgcrypto
     
-and follow pyrogram documentation for installing API_ID, API_HASH and BOT_TOKEN.
+and follow [Pyrogram](https://docs.pyrogram.org/) documentation for installing API_ID, API_HASH and BOT_TOKEN.
+
 
 ## Deploy
 
