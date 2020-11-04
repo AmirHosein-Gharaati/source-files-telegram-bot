@@ -1,5 +1,6 @@
 # source-files-telegram-bot
-A telegram bot for interacting with database files
+
+A telegram bot for searching files using sqlite3 databasse
 
 
 ## How it works
