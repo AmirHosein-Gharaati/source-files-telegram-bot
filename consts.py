@@ -46,7 +46,6 @@ MESSAGE_HELP_HEAD_ADMIN = '''/add_admin ID
 /delete_file DOWNLOAD_FILE_ID
 /send_message_to_user NEW_LINE ID NEW_LINE TEXT
 /edit_file_description NEW_LINE FILE_ID NEW_LINE TEXT
-/backup
 '''
 
 MESSAGE_REQUEST_IN_QUEUE = '''درخواست شما در صف قرار گرفت.
