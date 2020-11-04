@@ -1,0 +1,5 @@
+BOT_NAME = ''
+BOT_TOKEN = ''
+API_ID= ''
+API_HASH= ''
+HEAD_ADMIN_ID = ''
